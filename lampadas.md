@@ -1,0 +1,3 @@
+# Questão 5
+
+Precisamos definir três estados diferentes para cada uma das lâmpadas. A primeira lâmpada será ligada por tempo suficiente até que ela esquente, e após isso ela será apagada, logo ela terá o estado de apagada e quente, a segunda ficará sempre acesa, então ela terá o estado de acesa, e a terceira estará apagada e fria. Dessa forma ao visitar apenas duas salas, saberemos a qual interruptor a lâmpada daquela sala corresponde atraves do estado da lâmpada.
